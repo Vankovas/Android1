@@ -1,0 +1,1 @@
+Learning the basics of Android Studio by doing some simple exercises.
